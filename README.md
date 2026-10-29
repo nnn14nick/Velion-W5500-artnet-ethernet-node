@@ -21,7 +21,7 @@ A DIY ESP32-based Art-Net to DMX node for controlling DMX lighting fixtures over
 - I²C OLED display
 - WS2812B LED
 - XLR output connectors
-- Suitable power supply and wiring
+- Suitable power supply and wiring  (ESP32 can use 5v or 3.3v but be careful because some max485 modules take 3.3v and some take 5v. Always check your manual that came with module. )
 
 
 
